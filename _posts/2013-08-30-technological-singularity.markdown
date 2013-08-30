@@ -19,6 +19,31 @@ Imagine that we, against all odds, are finally capable of building a true artifi
 
 Since the new AI is better than the old AI, it's also logical that the new AI would have the capability to build another AI. Since the new AI is better, it's possible that it could eventually create an entirely new AI that better than itself, rendering itself obselete, just like the old AI.
 
-And the cycle continue...
+The cycle continue until at one point an AI that possesses intelligence that vastly surpass the human mind is finally formed. This is what we called the [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity).
 
-This is what we called the [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity).
+When (if) we finally reached the singularity, our society would not be the same anymore.
+
+
+Can We Survive the Singularity?
+-------------------------------
+
+What would happen if computers are finally smarter than any human being?
+
+What would you do if you suddenly lost your job because your industry suddenly became obselete, completely replaced by computers?
+
+During last industrial revolution, a great many people suddenly lost their job from the textile industry, replaced by machines capable of producing textile at much higher quantity and better quality. When the singularity happen, the computer can replace anyone, just like those workers that replaced by steam engines during the last industrial revolution. It would not make any economical sense anymore to hire a human. If a company still employing humans, its competitor can easily beat them by employing computers. The computer can works long hours without compensation and vacation. In a sense, the computer is a slave worker, only that it doesn't mind being so.
+
+What would you do if you live in such world? If you know that no matter how hard you study you'll never be as smart as a computer purchased from a store next door, would you spent a significant portion of your life to pursue a Ph.D.? Would you became an artist instead? What if the computer can be an artist too?
+
+Also, when the computers are smarter than any human being, who could guarantee that they'll stay content being our slave worker? What if they decide that the world would be a better place without us? After all, we did pollute this world and drove many species to extinction. Skynet, is that you?
+
+
+Three Laws of Robotics
+----------------------
+
+Chance that you're already know this stuff (possibly from [I, Robot](http://www.imdb.com/title/tt0343818/) movie):
+
+1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+2. A robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.
+3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
