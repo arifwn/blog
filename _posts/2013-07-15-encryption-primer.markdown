@@ -53,9 +53,14 @@ Recently, [a bitcoin exchange got hacked](http://forum.ovh.com/showthread.php?t=
 
 See also:
 
-- [random.org](http://www.random.org/)
-- [Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
 - [The Factoring Dead: Preparing for the Cryptopocalypse](http://www.slideshare.net/astamos/bh-slides)
+- [Crypto experts issue a call to arms to avert the cryptopocalypse](http://arstechnica.com/security/2013/08/crytpo-experts-issue-a-call-to-arms-to-avert-the-cryptopocalypse/)
+- [The code monkey's guide to cryptographic hashes for content-based addressing](http://valerieaurora.org/monkey.html)
+- [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
+- [random.org](http://www.random.org/)
+- [Random Number Bug in Debian Linux](https://www.schneier.com/blog/archives/2008/05/random_number_b.html)
+- [Petition to Linus Torvalds: Remove RdRand from /dev/random](http://www.change.org/en-GB/petitions/linus-torvalds-remove-rdrand-from-dev-random-4/responses/9066), [discussion](https://news.ycombinator.com/item?id=6359892)
+- [Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
 
 ### Quantum Computing
 
