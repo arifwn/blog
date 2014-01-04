@@ -11,6 +11,8 @@ The uproar caused by recent leak from [Edward Snowden](https://en.wikipedia.org/
 
 Politics aside, security must be taken seriously everytime we use internet. In this post I would like to talk about the basic of security in general computing today.
 
+- http://xkcd.com/1269/
+
 Basic Cryptography
 ------------------
 
@@ -359,6 +361,7 @@ How SSL (HTTPS) Works
 ---------------------
 - Initial handshake uses asymmetric encryption to exchange symmetric keys. Therefore HTTPS requires two roundtrip to server. SPDY protocol solve this (but chrome-only).
 - Validation: The connection might be encrypted, but how can you be sure that the guys on the other side of the cable are not an imposter? Someone I trusted should confirm that I'm indeed not talking to a fake imposter.
+- [Forward Secrecy](https://community.qualys.com/blogs/securitylabs/2013/06/25/ssl-labs-deploying-forward-secrecy)
 
 Deep Net
 --------

@@ -47,3 +47,13 @@ Chance that you're already know this stuff (possibly from [I, Robot](http://www.
 2. A robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.
 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
+
+Isaac Asimov Prediction
+-----------------
+
+- Asimov predict a future where every aspect of industry and any kind of jobs can be done by automatons.
+- Since there is no need for human to work anymore, the only jobs/occupations exist is creative and/or art related. Such jobs will be scarce and the one who has it will be considered an elite.
+
+Reference:
+
+- [Visit to the World's Fair of 2014](http://www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
