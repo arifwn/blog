@@ -105,6 +105,11 @@ In asymmetric-key encryption, the public and private keys must be somehow relate
 With a sufficiently big quantum computer, factoring private key from public key is feasible using Shor's algorithm. The task that could takes billions of years now can be accomplished in a couple years, for instance. That's why [cryptography researchers now scramble to produce new cryptography algorithms and methods](http://pqcrypto.org/) in the event that quantum computer is finally big enough to pose a threat for cryptography world. 
 
 
+Forward Secrecy
+-------------
+Later
+
+
 Securing Email
 --------------
 There is no doubt that email plays an important role in our internet life. We can't even register for a new account on many website without email! But how does email really work actually?
